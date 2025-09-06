@@ -1,4 +1,4 @@
-# Setup virtual environment
+# Setup virtual environment:
 
 ###### [Install poetry](https://python-poetry.org/docs/#installation) first
 
